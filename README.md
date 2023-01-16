@@ -1,5 +1,5 @@
 # testGitAutomatique
 
-Dernier pull 1327
+13h47
 
-Je viens de faire des modifications depuis Bob qui ont été push sur le main, ces modifications ont elles été sauvegardées après le pull journalier?
+Modification de Bob
