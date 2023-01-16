@@ -2,7 +2,7 @@
 
 13h47
 
-Modification de Bob
+Suppression et modification du Readme 1351
 
 
 Modification du main 2nd
